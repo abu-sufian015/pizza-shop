@@ -1,5 +1,5 @@
 # pizza-shop
-### A comprehensive SQL project showcasing data-driven insights from a pizza sales database. This repository includes SQL queries for retrieving key metrics, identifying trends, and performing advanced analyses, categorized into three levels:
+A comprehensive SQL project showcasing data-driven insights from a pizza sales database. This repository includes SQL queries for retrieving key metrics, identifying trends, and performing advanced analyses, categorized into three levels:
 
 Basic:
 
@@ -28,10 +28,10 @@ Features:
 - Ideal for learning SQL and exploring real-world business analytics.
 
 ---
-[dashboard](screenshot/pz-1.png)
+![dashboard](screenshot/pz-1.png)
 
 ---
-[dashboard](screenshot/pzs6.png)
+![dashboard](screenshot/pzs6.png)
 
 ---
   
