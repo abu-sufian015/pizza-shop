@@ -5,7 +5,7 @@ Basic:
 
 - Total number of orders placed.
 - Total revenue from pizza sales.
-- Identification of the highest-priced pizza and most common pizza size.
+- Identification of the highest-priced pizza and the most common pizza size.
 - Top 5 most ordered pizza types by quantity.
 
 Intermediate:
@@ -26,6 +26,14 @@ Features:
 - Queries optimized for performance and clarity.
 - Support for common SQL environments, such as MySQL Workbench.
 - Ideal for learning SQL and exploring real-world business analytics.
+
+---
+[dashboard](screenshot/pz-1.png)
+
+---
+[dashboard](screenshot/pzs6.png)
+
+---
   
 Getting Started:
 Clone the repository, load the provided schema, and run the SQL scripts in your preferred SQL editor.
